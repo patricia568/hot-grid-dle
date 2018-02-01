@@ -26,3 +26,20 @@ html {
 body {
   margin: 0;
 }
+
+.unit {
+  position: relative;
+}
+
+p {
+  position: absolute;
+  left: .5em;
+  bottom: .5em;
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+  border-radius: 10px;
+  width: 15em;
+  max-width: 15em;
+  padding: 1rem;
+  margin-bottom: 0;
+}
