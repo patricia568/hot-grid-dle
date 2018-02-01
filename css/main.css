@@ -43,3 +43,7 @@ p {
   padding: 1rem;
   margin-bottom: 0;
 }
+
+figure {
+  margin: 0;
+}
