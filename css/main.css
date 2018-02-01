@@ -28,10 +28,6 @@ body {
   margin: 0;
 }
 
-.unit {
-  position: relative;
-}
-
 p {
   position: absolute;
   left: .5em;
@@ -47,4 +43,5 @@ p {
 
 figure {
   margin: 0;
+  position: relative;
 }
